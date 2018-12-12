@@ -1,8 +1,8 @@
 Package: msPurityData
 Type: Package
 Title: Fragmentation spectral libraries and data to test the msPurity package
-Version: 1.11.0
-Date: 2017-07-11
+Version: 1.11.1
+Date: 12-12-2018
 Author: Thomas N. Lawson
 Maintainer: Thomas N. Lawson <thomas.nigel.lawson@gmail.com>
 Description: Fragmentation spectral libraries and data to test the msPurity package
