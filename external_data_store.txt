@@ -3,4 +3,3 @@ inst/extdata/dims/msfr-peaks
 inst/extdata/dims/mzML
 inst/extdata/lcms/example_results
 inst/extdata/lcms/mzML
-inst/extdata/library_spectra
