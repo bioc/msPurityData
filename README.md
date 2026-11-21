@@ -34,4 +34,10 @@ if("try-error" %in% class(t)){
 ## Ref
 [1] Michalski, A., Cox, J., & Mann, M. (2011). More than 100,000 detectable peptide species elute in single shotgun proteomics runs but the majority is inaccessible to data-dependent LC-MS/MS. Journal of Proteome Research, 10(4), pp. 1785-1793.
 
+## Historical msPurity regression fixtures
 
+Version 1.41.2 adds the original SQLite databases, saved purityA workflow
+stages and expected results used by the msPurity long tests. Locate the
+collection with `system.file("extdata", "regression-v1", package = "msPurityData")`.
+The accompanying README identifies the source revision and SHA256SUMS lists
+the checksum of each fixture.

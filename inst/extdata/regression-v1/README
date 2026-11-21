@@ -1,0 +1,4 @@
+Historical regression fixtures from msPurity commit 2299c4c.
+The SQLite databases and saved R objects retain their original bytes.
+sm/spectralMatching_result_OLD.sqlite was byte-identical to
+sm/spectralMatching_result.sqlite and shares that file.

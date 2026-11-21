@@ -1,8 +1,8 @@
 Package: msPurityData
 Type: Package
 Title: Data to test the msPurity package
-Version: 1.41.1
-Date: 2026-02-19
+Version: 1.41.2
+Date: 2026-11-21
 Author: Thomas N. Lawson
 Maintainer: Thomas N. Lawson <thomas.nigel.lawson@gmail.com>
 Description: Data to test the msPurity package
